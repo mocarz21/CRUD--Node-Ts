@@ -17,5 +17,13 @@
   },
   "dependencies": {
     "consola": "^2.15.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocarz21/CRUD--Node-Ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mocarz21/CRUD--Node-Ts/issues"
+  },
+  "homepage": "https://github.com/mocarz21/CRUD--Node-Ts#readme"
 }
